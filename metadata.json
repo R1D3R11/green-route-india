@@ -1,0 +1,7 @@
+{
+  "name": "GreenRoute India",
+  "description": "AI-powered eco-transit planner for Indian cities. Compare cost, time, and carbon footprint across Metro, Bus, Train, and walking routes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
